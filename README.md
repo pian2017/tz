@@ -12,12 +12,12 @@
   <tr>
       <td align=center>
       ◆◆铁证如山◆◆头号史案：超越纳粹<br/>
- <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?2EC%2FZCGJ&current=2:1&from=wnel"> 请点击在线观看</a><br/>
+ <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?2EC%2FZCGJ&current=2:1&from=wnel-qin"> 请点击在线观看</a><br/>
    </tr>
   <tr>
       <td align=center>
       ◆专家讲座◆中共活摘器官 国家犯罪罪证<br/>
- <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816787&from=wnel">请点击在线观看</a> <br/>
+ <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816787&from=wnel-qin">请点击在线观看</a> <br/>
    </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B42.jpg" /></td>
@@ -38,12 +38,12 @@
   <tr>
 <td align=center>
 ◆活摘十年调查◆揭开中共活摘震撼内幕<br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">请点击在线观看</a> <br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel-qin">请点击在线观看</a> <br/>
    </tr>
   <tr>
 <td align=center>
 ◆大卫战红魔◆国际获奖，全球反响巨大<br/>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816771&from=wnel">请点击在线观看</a> <br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816771&from=wnel-qin">请点击在线观看</a> <br/>
    </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B4.JPG" /></td>
@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td align=center>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">大陆请点击进入动态网址</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel-qin">大陆请点击进入动态网址</a><br/>
       微信如果提示：停止访问该网页<br/>
       请点击右上角，选择浏览器打开<br/>
     </td>
@@ -92,7 +92,7 @@
   </tr>
   <tr>
     <td align=center>
-      <a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=wnel">网门头条</a><br/>
+      <a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=wnel-qin">网门头条</a><br/>
     </td>
   </tr>
   <tr>
